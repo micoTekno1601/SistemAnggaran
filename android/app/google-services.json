@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "643217746643",
+    "project_id": "anggaran-e9e1b",
+    "storage_bucket": "anggaran-e9e1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643217746643:android:5b90d254b3fdeb7cd0c226",
+        "android_client_info": {
+          "package_name": "com.example.anggaran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643217746643-lr998abv7vu9rtsliqj4qn0gfms2l8tn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anggaran",
+            "certificate_hash": "0e7936ede1c86acc71bf4a9782913c39cae817ed"
+          }
+        },
+        {
+          "client_id": "643217746643-6sq0sm5clfiblckupurt085ghtoaad5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV1UF6gT1vfuC8jv4JoQlA52CcRmZ-m1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643217746643-6sq0sm5clfiblckupurt085ghtoaad5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
